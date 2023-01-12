@@ -1,5 +1,16 @@
-// Create Four Function
-// Add, Sub, Mult, Div
-// Clear Function that resets the calc 
-// Store the Number values
-// Display and change the screen  
+// Display
+let displayValue;
+
+//Functions store value in displayValue and overrides value each use
+
+//Add
+let add = (a, b) => displayValue = (a + b);
+//Sub
+let sub = (a, b) => displayValue = (a - b);
+//Multiple
+let mult = (a, b) => displayValue = (a * b);
+//Divide
+let divi = (a, b) => displayValue = (a / b);
+
+//Clear Button
+let clear = () => displayValue = 0;
