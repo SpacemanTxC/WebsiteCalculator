@@ -3,3 +3,8 @@ Creating a Website that Displays a Calculator
 Created Trello Board
 
 Figure Outline 
+
+1/12:
+Created the functions and the displayvalue 
+- Wrote notes about the process of using the calculator in buttons page
+Create the buttons and basic display of the app
